@@ -1,19 +1,6 @@
 # vxb_neptune_wallet
 Neptune's inaugural wallet program
 
-## UI
-
-### Wallet
-![alt text](imgs/image.png)
-
-### Send
-![alt text](imgs/image-1.png)
-
-### History
-![alt text](imgs/image-2.png)
-![alt text](imgs/image-3.png)
-
-
 ## Download
 
 ## Install
@@ -54,3 +41,7 @@ sudo xattr -d com.apple.quarantine /Applications/NeptuneWallet.app
 5. click "Send"
 ![alt text](imgs/image-9.png)
 Processing your transaction...
+
+## History
+![alt text](imgs/image-2.png)
+![alt text](imgs/image-3.png)

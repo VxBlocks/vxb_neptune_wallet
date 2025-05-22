@@ -3,6 +3,8 @@ Neptune's inaugural wallet program
 
 ## Download
 
+[latest](https://github.com/VxBlocks/vxb_neptune_wallet/releases/latest)
+
 ## Install
 
 Double-click the software

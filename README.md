@@ -1,5 +1,6 @@
 # vxb_neptune_wallet
 Neptune's inaugural wallet program
+<img width="1100" alt="image" src="https://github.com/user-attachments/assets/6232e31f-99f0-4429-b9f4-1565c7407990" />
 
 ## Download
 
